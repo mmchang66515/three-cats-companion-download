@@ -1,2 +1,32 @@
-# three-cats-companion-download
-三貓陪你 Android App 公開下載區
+# 三貓陪你 🐾
+
+張小星、小北、唐唐的 Android 桌面陪伴 App 公開下載區。
+
+## 最新版本
+
+**v0.7.1**
+
+### 本次更新
+
+- 修正小北的音效，只保留真正撒嬌的貓叫聲
+- 排除影片中的人聲
+- 張小星與唐唐的音效維持不變
+- 三隻貓可以在手機桌面陪伴、走動、玩球與互動
+
+## 下載 App
+
+請點選下方連結，進入最新版頁面後下載：
+
+**[下載「三貓陪你」最新版 APK](https://github.com/mmchang66515/three-cats-companion-download/releases/latest)**
+
+檔案名稱：`ThreeCatsCompanion-v0.7.1.apk`
+
+## Android 手機安裝方式
+
+1. 下載 APK。
+2. 開啟手機的「檔案」或「下載」。
+3. 點選 APK 檔案。
+4. 若手機出現提示，允許瀏覽器或檔案管理員「安裝未知應用程式」。
+5. 按下「安裝」即可。
+
+> 本公開下載區只提供 APK 與版本說明，不包含 App 原始程式碼。
